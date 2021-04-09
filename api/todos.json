@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "tarea" : {
+            "nombre" : "Lavar los trastes",
+            "descripcion" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit."
+        },
+        "categoria" : "Labor doméstica",
+        "fecha_limite" : "14/04/2021",
+        "estado" : "pendiente"
+    },
+    {
+        "id" : 2,
+        "tarea" : {
+            "nombre" : "Pagar la mensualidad del coche",
+            "descripcion" : "No hay nadie que ame el dolor mismo, que lo busque, lo encuentre y lo quiera, simplemente porque es el dolor."
+        },
+        "categoria" : "Finanzas",
+        "fecha_limite" : "24/04/2021",
+        "estado" : "pendiente"
+    },
+    {
+        "id" : 3,
+        "tarea" : {
+            "nombre" : "Llevar a los niños al colegio",
+            "descripcion" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit."
+        },
+        "categoria" : "Cotidiana",
+        "fecha_limite" : "15/04/2021",
+        "estado" : "terminado"
+    }
+]
