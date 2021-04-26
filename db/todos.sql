@@ -10,4 +10,9 @@ CREATE TABLE todos(
     estado VARCHAR(20) NOT NULL
 );
 
-SELECT * from todos;
+SELECT id, nombre, descripcion, categoria, DATE_FORMAT(fecha_limite, "%d/%m/%Y") as fecha_limite, estado from todos
+order by id desc limit 1;
+
+SELECT * FROM todos;
+
+DELETE FROM todos WHERE id > 9;

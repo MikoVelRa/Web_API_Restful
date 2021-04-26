@@ -1,32 +1,107 @@
 [
-    {
-        "id" : 1,
-        "tarea" : {
-            "nombre" : "Lavar los trastes",
-            "descripcion" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit."
-        },
-        "categoria" : "Labor doméstica",
-        "fecha_limite" : "14/04/2021",
-        "estado" : "pendiente"
+  {
+    "id": "1",
+    "tarea": {
+      "nombre": "Arreglar la cisterna",
+      "descripcion": "Comprar las piezas pertinentes"
     },
-    {
-        "id" : 2,
-        "tarea" : {
-            "nombre" : "Pagar la mensualidad del coche",
-            "descripcion" : "No hay nadie que ame el dolor mismo, que lo busque, lo encuentre y lo quiera, simplemente porque es el dolor."
-        },
-        "categoria" : "Finanzas",
-        "fecha_limite" : "24/04/2021",
-        "estado" : "pendiente"
+    "categoria": "doméstica",
+    "fecha_limite": "17/04/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "4",
+    "tarea": {
+      "nombre": "Pagar tarjetas de crédito",
+      "descripcion": "Pagar solamente Mastercard y American Express"
     },
-    {
-        "id" : 3,
-        "tarea" : {
-            "nombre" : "Llevar a los niños al colegio",
-            "descripcion" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit."
-        },
-        "categoria" : "Cotidiana",
-        "fecha_limite" : "15/04/2021",
-        "estado" : "terminado"
-    }
+    "categoria": "Finanzas",
+    "fecha_limite": "10/05/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "5",
+    "tarea": {
+      "nombre": "Hornear el pan",
+      "descripcion": "El pan es para la vecina de al lado, que está bien buena."
+    },
+    "categoria": "Personal",
+    "fecha_limite": "11/04/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "9",
+    "tarea": {
+      "nombre": "Barrer el tejado",
+      "descripcion": "Tener cuidado con las ratas, llevar alguna jaula para sacarlas."
+    },
+    "categoria": "Labor doméstica",
+    "fecha_limite": "22/04/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "51",
+    "tarea": { "nombre": "sdd", "descripcion": "cd" },
+    "categoria": "Cotidiana",
+    "fecha_limite": "14/04/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "52",
+    "tarea": { "nombre": "sd", "descripcion": "ds" },
+    "categoria": "Cotidiana",
+    "fecha_limite": "29/04/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "53",
+    "tarea": { "nombre": "sddddd", "descripcion": "cdddddds" },
+    "categoria": "Personal",
+    "fecha_limite": "30/04/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "54",
+    "tarea": { "nombre": "xfddd", "descripcion": "cds" },
+    "categoria": "Personal",
+    "fecha_limite": "23/04/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "55",
+    "tarea": { "nombre": "dssd", "descripcion": "fd" },
+    "categoria": "Cotidiana",
+    "fecha_limite": "22/04/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "56",
+    "tarea": {
+      "nombre": "Pagar la luz",
+      "descripcion": "No pagar en cajeros de banco"
+    },
+    "categoria": "Finanzas",
+    "fecha_limite": "12/08/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "57",
+    "tarea": {
+      "nombre": "Pagar el internet",
+      "descripcion": "No pagar en cajeros de banco"
+    },
+    "categoria": "Personal",
+    "fecha_limite": "11/08/2021",
+    "estado": "pendiente"
+  },
+  {
+    "id": "58",
+    "tarea": {
+      "nombre": "Hornear galletitas para los niños",
+      "descripcion": "2 de chocolate para la niña y el niño que se joda, está castigado por reprobar"
+    },
+    "categoria": "Labor doméstica",
+    "fecha_limite": "29/05/2021",
+    "estado": "pendiente"
+  }
 ]
